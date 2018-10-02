@@ -1,6 +1,11 @@
 body {
   position: relative;
 }
-
+.mainheader {color: #e88de0;
+	text-transform: uppercase;
+}
 #fixed-block {
 }
+#header-level-3 {
+	color: #dba0d6;
+	}
