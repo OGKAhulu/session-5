@@ -9,3 +9,18 @@ body {
 #header-level-3 {
 	color: #dba0d6;
 	}
+	#ma-boite {
+		width: 300px;
+		height: 100px;
+	padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  background-color: #f4cbf1;
+  color: #8e0584;
+  border-color: #8e0584;
+  border-width: 5px;
+  position: fixed;
+  left: 600px;
+		}
+
